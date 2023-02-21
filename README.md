@@ -4,7 +4,7 @@ I'm Andrea Beretta and I'm a Computer Science  Graduate at Università degli Stu
 
 🎓 Education:
 
-Master of Science in Data Science at Università Degli Studi di Milano (just enrolled)
+Master of Science in Data Science at Università Degli Studi di Milano (ongoing)
 Bachelor of Science in Computer Science at Università Degli Studi di Milano
 
 📌 Projects:
@@ -15,7 +15,7 @@ XMl file generator
 
 📢 Contacts:
 
-andrea.beretta@yahoo.com
+beretta.andrea21@gmail.com
 
 👦 About me:
 
