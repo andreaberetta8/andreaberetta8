@@ -1,6 +1,6 @@
 # Hi there, nice to meet you 👋
 
-I'm Andrea Beretta and I'm a Computer Science Graduate at Università degli Studi di Milano. I graduated with a Bachelor Thesis about NLP, called 'Development of an application for natural language processing'. During these years i interned at Amazon as software engineer and in business intelligence for an italian startup, i am now looking for a full time opportunites.
+I'm Andrea Beretta and I'm a Computer Science Graduate at Università degli Studi di Milano. I graduated with a Bachelor Thesis about NLP, called 'Development of an application for natural language processing'. During these years i've been a software engineer intern at Amazon Luxembourg and i am currently a system development engineer at AWS in Berlin.
 
 🎓 Education:
 
@@ -20,6 +20,5 @@ beretta.andrea21@gmail.com
 
 👦 About me:
 
-🌱 I’m currently preparing for job interviews
 🎵 I play the piano
 🏃 wakeboard: @wakeparadisemilano
