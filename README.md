@@ -4,7 +4,7 @@ I'm Andrea Beretta and I'm a Computer Science Graduate at Università degli Stud
 
 🎓 Education:
 
-Master of Science in Data Science at Università Degli Studi di Milano (ongoing)
+Master of Science in Data Science at Università Degli Studi di Milano (ongoing),
 Bachelor of Science in Computer Science at Università Degli Studi di Milano
 
 📌 Projects:
